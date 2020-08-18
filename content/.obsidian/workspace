@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "963e3f8af274cac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "731e08dc934b7cf5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202007200204 过去不是原因，现在不是结果.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0c2e99827992c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "980913d76153dda8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab75fb6aa20ce9e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b803548c0ceae42c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51455b4b238e3ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfedf4f6d6e49dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6a8e7b25fca7b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b578f98aefe990d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "202007200204 过去不是原因，现在不是结果.md",
+    "Untitled.md",
+    "202007200204.md",
+    "evergreen note-taking.md",
+    "about.md"
+  ]
+}

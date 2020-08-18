@@ -1,0 +1,18 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Custom CSS": true,
+    "Daily notes": true,
+    "Zettelkasten prefixer": true
+  },
+  "vimMode": true
+}
